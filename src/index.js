@@ -11,7 +11,7 @@ function App() {
             <h1>Xin chào anh em F8!</h1>
 	    <h1>Xin chào anh em F8!</h1>
             <h1>Xin chào anh em F8!</h1>
-            <h1>Xin chào anh em F8!</h1>
+            <h1>Thiện!</h1>
 
         </div>
     )
